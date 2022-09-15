@@ -1,4 +1,4 @@
-Coursier géant
+Grand coureur champion
 [ Giant Strider ] [ Coursier des brasiers ]
 Élémentaire de taille G, sans alignement
 Classe d'armure 14 (armure naturelle)
@@ -16,13 +16,13 @@ SAG
 12 (+1)
 CHA
 6 (-2)
-Immunités aux dégâts feu
+Immunités aux dégâts float
 Sens Perception passive 11
-Langues —
+Langues — mandarin 
 Puissance 1 (200 PX)     Bonus de maîtrise +2
 Absorption du feu.
 ACTIONS
-Morsure.
+Bouffeur de yumcha
 Explosion de feu (Recharge 5-6).
 
 Le bloc de stat complet de cette créature n'est pas disponible (non OGL).
