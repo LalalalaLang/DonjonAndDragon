@@ -1,0 +1,22 @@
+Pour GIT BASH
+
+- créer sur GitHub un dossier vide (sans licence sans readme etc.)
+- copier le lien HTP
+
+Dans la fenêtre de Git Bash
+
+$ git add .
+
+$ git commit -m "blablabla"
+
+$ git status (pour avoir le contenu actualisé)
+
+$ git log (pour avoir les ID de commits)
+
+$ git log --oneline --all
+
+$ git remote add origin https(lien)
+
+$ git push origin master (actualiser/envoyer un commit)
+
+$ git checkout
